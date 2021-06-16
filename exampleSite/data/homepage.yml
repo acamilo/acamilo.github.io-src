@@ -1,11 +1,12 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Alex Camilo <br> Electrical Engineer"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "I am a passionate and driven engineer. Ever since my graduation I’ve been involved in an Educational Robotics Startup, Founded a Makerspace, and Worked with PHD Students on cutting edge medical Robots. My core skills lie in Schematic Capture and PCB Layout. Additionally, I’ve
+acquired many ancillary skills that turn me into an effective troubleshooter and rapid prototyper."
   button:
     enable : true
     label : "know more"
@@ -54,24 +55,13 @@ experience:
 
 # education
 education:
-  enable : false
+  enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
-      
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
-      
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "BA in Electical and Computer Engineering"
+      year : "2010"
+      academy : "Worcester Polytechnic Institute"
+
 
 # service
 service:

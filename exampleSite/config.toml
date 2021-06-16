@@ -2,7 +2,7 @@
 baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+theme = "acamilo.github.io"
 title = "Kross"
 
 # css plugins
@@ -54,7 +54,7 @@ weight = 4
 home = "Home"
 logo = ""
 # theme color
-theme_color = "#41228e"
+theme_color = "#0047ba"
 # contact info
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
