@@ -1,3 +1,4 @@
+
 # banner
 banner:
   title : "Hi! I’m <br> Alex Camilo <br> Electrical Engineer"
@@ -146,6 +147,6 @@ clients_logo_slider:
 
 # blog
 blog:
-  enable : true
+  enable : false
   title : "Blogs"
   # blog post comes from "content/blog" folder

@@ -4,8 +4,12 @@
   <section class="hero-area bg-primary overflow-hidden" id="parallax">
     <div class="container">
       <div class="row">
-        <div class="col-lg-11 mx-auto">
+        <div class="col-lg-7 mx-auto">
           <h1 class="text-white font-tertiary">{{ site.Data.homepage.banner.title | safeHTML }}</h1>
+        </div>
+        <div class="col-lg-4 mx-autu">
+          <img src="{{`images/about/author.jpg` | relURL}}" alt="author"
+            class="rounded-lg border-thick border-white">
         </div>
       </div>
     </div>
