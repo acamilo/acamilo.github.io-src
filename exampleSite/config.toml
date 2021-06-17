@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "acamilo.github.io"
-title = "Kross"
+title = ""
 
 # css plugins
 [[params.plugins.css]]
@@ -33,20 +33,20 @@ URL = "about"
 name = "About"
 weight = 1
 
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
+#[[menu.main]]
+#URL = "blog"
+#name = "Blog"
+#weight = 2
 
 [[menu.main]]
 URL = "portfolio"
 name = "Portfolio"
 weight = 3
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 4
+#[[menu.main]]
+#URL = "contact"
+#name = "Contact"
+#weight = 4
 
 
 # default parameters
