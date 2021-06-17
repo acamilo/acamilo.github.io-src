@@ -1,7 +1,8 @@
 
 # banner
 banner:
-  title : "Hi! I’m <br> Alex Camilo <br> Electrical Engineer"
+  title : "Alex Camilo"
+  blurb: "Electrical Engineer,<br> Product Developer,<br> Prototyper."
 
 # about
 about:
