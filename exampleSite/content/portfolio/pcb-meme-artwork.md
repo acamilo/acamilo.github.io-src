@@ -1,11 +1,11 @@
 ---
-title: "Artwork Design"
+title: "PCB Meme Artwork"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
-client: "John Doe"
+image: "images/portfolio/item-1.png"
+client: " "
 project_url : "https://themefisher.com/"
-categories: ["branding"]
-description: "This is meta description."
+categories: ["CircuitBoards"]
+description: "Silly discord memes made manifest, Good practice for PCB Artwork."
 draft: false
 ---
 

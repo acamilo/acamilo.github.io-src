@@ -1,11 +1,11 @@
 ---
-title: "Artwork Design"
+title: "PCB Brand Bulbs"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-3.png"
-client: "John Doe"
+client: " "
 project_url : "https://themefisher.com/"
-categories: ["illustration","development"]
-description: "This is meta description."
+categories: ["CircuitBoards"]
+description: "This USB Device has Logos printed on a PCB and backlit by RGB LEDs."
 draft: false
 ---
 
