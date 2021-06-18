@@ -1,10 +1,10 @@
 ---
 title: "Interactive MoonBadge"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-2.png"
+image: "images/portfolio/moonbadge/preview.jpg"
 client: " "
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","InternetOfThings"]
+categories: ["CircuitBoards","InternetOfThings","ConferenceBadges"]
 description: "An interactive E-Paper badge made for the 50th anaversery of the moon landing."
 draft: false
 ---

@@ -6,7 +6,7 @@ client: " "
 project_url : "https://themefisher.com/"
 categories: ["CircuitBoards"]
 description: "This USB Device has Logos printed on a PCB and backlit by RGB LEDs."
-draft: false
+draft: true
 ---
 
 #### Project Requirements
