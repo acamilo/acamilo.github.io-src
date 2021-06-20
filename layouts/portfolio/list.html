@@ -18,7 +18,7 @@
 					{{ end }}
 					{{ end }}
 					{{ range ( $categories | uniq ) }}
-          <label class="btn btn-sm btn-primary">
+          <label class="btn btn-sm btn-primary font-primary">
             <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
           </label>
           {{ end }}
@@ -34,7 +34,7 @@
             <div class="hover-content">
               <h4 class="text-white font-tertiary">{{.Params.title}}</h4>
               <p class="text-white font-primary">{{.Params.description}}</p>
-              <a class="btn btn-light btn-sm" href="{{ .Permalink }}">view project</a>
+              <a class="btn btn-light btn-sm font-primary" href="{{ .Permalink }}">view project</a>
             </div>
           </div>
         </div>
