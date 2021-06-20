@@ -636,7 +636,7 @@ textarea.form-control {
   border-radius: inherit;
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, .3);
+  background: rgba(0, 0, 0, .8);
   opacity: 0;
   visibility: hidden;
   transition: .3s ease
