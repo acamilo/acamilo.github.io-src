@@ -57,7 +57,7 @@ experience:
 
 # education
 education:
-  enable : true
+  enable : false
   title : "Education"
   item:
     - title : "BA in Electical and Computer Engineering"
