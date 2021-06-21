@@ -2,7 +2,7 @@
 baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "acamilo.github.io"
+theme = "acamilo.github.io-src"
 title = ""
 
 # css plugins
