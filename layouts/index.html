@@ -205,7 +205,14 @@
             <img src="{{.Params.image | absURL }}" alt="portfolio-image" class="img-fluid rounded w-100 d-block">
             <div class="hover-overlay">
               <div class="hover-content">
-                <a class="btn btn-light btn-sm" href="{{ .Permalink | safeURL }}">view project</a>
+                <a class="btn btn-light btn-sm font-primary" href="
+                {{ if .Params.external_link }}
+                  {{.Params.project_url}}
+                {{ else }}
+                  {{ .Permalink }}
+                {{ end }}
+                
+                ">view project</a>
               </div>
             </div>
           </div>
