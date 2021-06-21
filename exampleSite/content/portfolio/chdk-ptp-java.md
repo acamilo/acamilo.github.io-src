@@ -3,7 +3,8 @@ title: "CHDK Java Library"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/chdk-ptp-java/preview.jpg"
 client: "Sample Return Challenge"
-project_url : "https://themefisher.com/"
+project_url : "https://github.com/acamilo/CHDK-PTP-Java"
+external_link: true
 categories: ["Programming"]
 description: "The Canon Hack Development Kit firmware is an after market upgrade for many cameras. Among other features it enables Remote Control over USB. This java library allows the camera to be used in a robot."
 draft: false

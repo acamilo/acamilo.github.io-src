@@ -3,7 +3,8 @@ title: "Antisocial Simulation Game"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/ob-avoid/preview.png"
 client: "Personal"
-project_url : "https://themefisher.com/"
+project_url : "https://ldjam.com/events/ludum-dare/41/obstacle-avoidance"
+external_link: true
 categories: ["Programming"]
 description: "This game was made during a Ludum Dare Game jam event, It is about talking to people at parties."
 draft: false

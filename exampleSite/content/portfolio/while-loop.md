@@ -3,7 +3,8 @@ title: "Robot Simulation Game"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/while-loop/preview.jpg"
 client: "Personal"
-project_url : "https://themefisher.com/"
+project_url : "https://ldjam.com/events/ludum-dare/47/stuck-in-a-while-loop-1"
+external_link: true
 categories: ["Programming"]
 description: "This is an objective based robot simulation game written in 48 hours for the Ludum Dare game jam."
 draft: false

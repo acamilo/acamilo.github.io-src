@@ -1,12 +1,12 @@
 ---
-title: "Interactive MoonBadge"
+title: "Temperature Self-Screening"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/moonbadge/preview.jpg"
-client: "Technocopia"
-project_url : "https://github.com/acamilo/MoonBadge"
+image: "images/portfolio/screening-station/preview.png"
+client: "Worcester Polytechnic Institute"
+project_url : "https://hackaday.io/project/174319-supplemental-no-contact-ir-temperature-station"
 external_link: true
-categories: ["CircuitBoards","InternetOfThings","ConferenceBadges","Electronics"]
-description: "An interactive E-Paper badge made for the 50th anaversery of the moon landing."
+categories: ["CircuitBoards","Covid","Electronics"]
+description: "A Screening station designed to discreetly and privetly allow someone to check thier temperature."
 draft: false
 ---
 

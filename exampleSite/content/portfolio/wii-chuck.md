@@ -1,12 +1,12 @@
 ---
-title: "Interactive MoonBadge"
+title: "WII Accessory Library"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/moonbadge/preview.jpg"
-client: "Technocopia"
-project_url : "https://github.com/acamilo/MoonBadge"
+image: "images/portfolio/wii-chuck/preview.jpg"
+client: "Worcester Polytechnic Institute"
+project_url : "https://hackaday.io/project/19854-wiichuck"
 external_link: true
-categories: ["CircuitBoards","InternetOfThings","ConferenceBadges","Electronics"]
-description: "An interactive E-Paper badge made for the 50th anaversery of the moon landing."
+categories: ["Programming","Electronics"]
+description: "A library for interfacing with all the Wii Accessories, even the wierd ones."
 draft: false
 ---
 
