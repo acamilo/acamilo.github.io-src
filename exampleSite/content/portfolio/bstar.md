@@ -3,7 +3,8 @@ title: "BSTAR Engineering"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/bstar/preview.png"
 client: "BSTAR Engineering"
-project_url : "https://themefisher.com/"
+project_url : "https://www.bstarengineering.com/"
+external_link: true
 categories: []
 description: "Co founded an engineering contracting company with fellow WPI alumni."
 draft: false

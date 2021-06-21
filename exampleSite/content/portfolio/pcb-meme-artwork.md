@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/doge-badge/preview.jpg"
 client: "Personal"
 project_url : "https://themefisher.com/"
-external-link: true
+external_link: true
 categories: ["CircuitBoards","Electronics"]
 description: "Silly discord memes made manifest, Good practice for PCB Artwork."
 draft: false
