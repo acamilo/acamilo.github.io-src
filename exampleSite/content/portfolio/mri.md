@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/mri/preview.jpg"
 client: "WPI AIM Lab"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Medical"]
+categories: ["CircuitBoards","Medical","Electronics"]
 description: "These boards control piezoelectric motors used in MRI Compatible Surgical Robots."
 draft: false
 ---

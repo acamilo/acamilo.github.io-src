@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/zendriver/preview.jpg"
 client: "Worcester Polytechnic Institute"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Covid"]
+categories: ["CircuitBoards","Covid","Electronics"]
 description: "A Platform developed for WPI around the ROMI chassis and a custom PCB to facilitate robotics education during the pandemic."
 draft: false
 ---

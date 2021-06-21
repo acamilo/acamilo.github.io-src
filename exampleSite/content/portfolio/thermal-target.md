@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/thermal-target/preview.jpg"
 client: "Worcester Polytechnic Institute"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Covid"]
+categories: ["CircuitBoards","Covid","Electronics"]
 description: "A calibration aid for thermal cameras to make them capable of detecting minute differences in body temperature."
 draft: false
 ---

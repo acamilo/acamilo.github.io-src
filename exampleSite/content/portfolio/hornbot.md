@@ -2,9 +2,9 @@
 title: "Analog Robots"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/hornbot/preview.png"
-client: "Analog Robots Curriculum"
+client: "Worcester Polytechnic"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","InternetOfThings","ConferenceBadges"]
+categories: ["Electronics"]
 description: "Developed Homework assignments for WPI RBE involving analog robots built using only op amps."
 draft: false
 ---

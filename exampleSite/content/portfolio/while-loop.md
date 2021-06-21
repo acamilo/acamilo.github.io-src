@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/while-loop/preview.jpg"
 client: "WPI AIM Lab"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Medical"]
+categories: ["Programming"]
 description: "This is an objective based robot simulation game written in 48 hours for the Ludum Dare game jam."
 draft: false
 ---

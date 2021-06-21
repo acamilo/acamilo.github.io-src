@@ -1,12 +1,13 @@
 ---
 title: "PCB Meme Artwork"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-1.png"
-client: " "
+image: "images/portfolio/doge-badge/preview.jpg"
+client: "Personal"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards"]
+external-link: true
+categories: ["CircuitBoards","Electronics"]
 description: "Silly discord memes made manifest, Good practice for PCB Artwork."
-draft: true
+draft: false
 ---
 
 #### Project Requirements

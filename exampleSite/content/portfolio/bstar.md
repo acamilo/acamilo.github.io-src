@@ -2,9 +2,9 @@
 title: "BSTAR Engineering"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/bstar/preview.png"
-client: "WPI AIM Lab"
+client: "BSTAR Engineering"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Medical"]
+categories: []
 description: "Co founded an engineering contracting company with fellow WPI alumni."
 draft: false
 ---

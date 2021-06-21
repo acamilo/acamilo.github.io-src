@@ -1,12 +1,12 @@
 ---
-title: "PCB Brand Bulbs"
+title: "Antisocial Simulation Game"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/item-3.png"
-client: "BSTAR Engineering"
+image: "images/portfolio/ob-avoid/preview.png"
+client: "Personal"
 project_url : "https://themefisher.com/"
-categories: ["CircuitBoards","Electronics"]
-description: "This USB Device has Logos printed on a PCB and backlit by RGB LEDs."
-draft: true
+categories: ["Programming"]
+description: "This game was made during a Ludum Dare Game jam event, It is about talking to people at parties."
+draft: false
 ---
 
 #### Project Requirements
