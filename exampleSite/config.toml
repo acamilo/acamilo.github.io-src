@@ -3,7 +3,7 @@ baseURL = "http://examplesite.com"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "acamilo.github.io-src"
-title = ""
+title = "Alex Camilo's personal site"
 
 # css plugins
 [[params.plugins.css]]
