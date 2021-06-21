@@ -6,8 +6,10 @@ author_signature : "images/about/signature.png"
 draft: false
 ---
 
-I’ve been a techie and a nerd. In highschool, I was the kid with lights on his halloween costume, hypercard on his old MAC, and a BAsic Stamp in his pocket.
-My projects had Real Basic UI's and I arrived at WPI and dove head first into my Electrical and Computer Engineering major. In College I was a member of the IEEE student org on campus. I learned a lot about microcontrollers and electronics.  Me and my roommates liked to hack and tinker. 
+I’ve been a techie and a nerd. In highschool, I was the kid with lights on his halloween costume, hypercard on his old MAC, and a Basic Stamp in his pocket.
+My projects had User Interfaces written in RealBasic on my PowerBook.
+
+I arrived at WPI and dove head first into my Electrical and Computer Engineering major. In College I was a member of the IEEE chapter on campus. I learned a lot about microcontrollers and electronics.
 
 During my senior year me and some classmates started a Robotics Startup called Neuron Robotics. The goal was to develop a platform for teaching educational robotics. We stuck with it for quite a while and we even sold some hardware to WPI’s RBE department and got our product into Microcenter. Meanwhile I was also working as a researcher at the WPI AIMlab.
 
