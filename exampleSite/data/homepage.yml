@@ -1,0 +1,153 @@
+
+# banner
+banner:
+  title : "Alex Camilo"
+  blurb: "Electrical Engineer,<br> Product Developer,<br> Prototyper."
+
+# about
+about:
+  enable : true
+  content : "I am a passionate and driven engineer. Ever since my graduation I’ve been involved in an Educational Robotics Startup, Founded a Makerspace, and Worked with PHD Students on cutting edge medical Robots. My core skills lie in Schematic Capture and PCB Layout. Additionally, I’ve
+acquired many ancillary skills that turn me into an effective troubleshooter and rapid prototyper."
+  button:
+    enable : true
+    label : "know more"
+    URL : "about"
+
+# skill
+skill:
+  enable : false
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : false
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : false
+  title : "Education"
+  item:
+    - title : "BA in Electical and Computer Engineering"
+      year : "2010"
+      academy : "Worcester Polytechnic Institute"
+
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "UI Design"
+      icon : "ti-palette"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+    - title : "UX Design"
+      icon : "ti-vector"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : true
+
+    - title : "Interaction Design"
+      icon : "ti-panel"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      highlighted : false
+
+# portfolio
+portfolio:
+  enable : false
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+    - name : "Jesica Gomez"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Shirley Scot"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+      
+    - name : "Jessica Julie"
+      image : "images/testimonial/client-1.png"
+      designation : "CEO, Funder"
+      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "http://examplesite.com"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
