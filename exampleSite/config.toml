@@ -63,9 +63,9 @@ address = "44 portland st, FL 6, Worcester MA, 01609"
 author = "Alex Camilo"
 description = "This is meta description"
 # google analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "G-P4TY9VPKFN" # Your ID
 # copyright
-copyright = "Copyright &copy; 2020 Alex Camilo"
+copyright = "Copyright &copy; 2021 Alex Camilo"
 
 
 # preloader

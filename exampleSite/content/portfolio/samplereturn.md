@@ -1,12 +1,12 @@
 ---
-title: "PCB Meme Artwork"
+title: "2014/2015 NASA Sample Return Robot"
 date: 2019-05-12T12:14:34+06:00
-image: "images/portfolio/doge-badge/preview.jpg"
+image: "images/portfolio/sample-return/preview.jpg"
 client: "Personal"
-project_url : "https://github.com/acamilo/pcb-artwork-project"
+project_url : "https://www.space.com/29657-nasa-sample-return-robot-challenge-2015.html"
 external_link: true
-categories: ["CircuitBoards","Electronics"]
-description: "Silly discord memes made manifest, Good practice for PCB Artwork."
+categories: ["Electronics"]
+description: "An autonomous robot designed to retrieve and return a sample in a field."
 draft: false
 ---
 
